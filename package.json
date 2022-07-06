@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/frando/randombytes",
   "browser": "browser.js",
+  "types": "./index.d.ts",
   "devDependencies": {
     "phantomjs": "^1.9.9",
     "standard": "^10.0.2",
